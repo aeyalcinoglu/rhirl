@@ -1,0 +1,1 @@
+`RHIRL` (Ride-hailing inverse reinforcement learning) based on [Liu and Jiang (2022)](https://www.sciencedirect.com/science/article/pii/S1366554522001715)

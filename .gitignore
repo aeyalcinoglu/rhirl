@@ -1,0 +1,16 @@
+# Python stuff
+*.egg-info/
+__pycache__/
+.ipynb_checkpoints
+
+# Data
+*.csv
+*.json
+*.log
+*.pt
+*.pickle
+*.pkl
+*.npy
+logs/
+*tfevents*
+!rhirl/data/raw/*
